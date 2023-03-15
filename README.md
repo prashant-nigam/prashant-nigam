@@ -14,7 +14,7 @@
 - 🌱 Learning all about **Python**
 - 💬 Ping me about **GIS**, **ArcGIS**, **Python**, **Java**, **RestAPIs**, **Cordova**, **Kusto**
 - 📫 Reach me: [linkedin.com/prashant-nigam](https://www.linkedin.com/in/prashant-nigam/)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/resume_prashant_nigam.pdf).
 
 #### Current Stack
 

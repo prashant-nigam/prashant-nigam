@@ -19,13 +19,13 @@
 #### Current Stack
 
 <img height="48" src="img/python.svg" alt="python"> 
-<img height="48" src="img/gis.svg" alt="GIS"> 
-<img height="48" src="img/postgresql-original.svg" alt="postgress"> 
+<img height="48" src="img/openlayers.svg" alt="Openlayers"> 
+<img height="48" src="img/leaflet.png" alt="Leaflet"> 
+<img height="48" src="img/angular.png" alt="Angular"> 
 <!-- <img height="48" src="img/docker-original.svg" alt="Docker"> -->
 <!-- <img height="48" src="img/linux-original.svg" alt="linux"> -->
 <!-- <img height="48" src="img/nginx-original.svg" alt="nginx"> -->
 <!--<img height="48" src="img/pytest-original.svg" alt="pytest"> -->
-<img height="48" src="img/git-original.svg" alt="git"> 
 <!-- <img height="48" src="img/react-original.svg" alt="react"> -->
 <!---
 prashant-nigam/prashant-nigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
